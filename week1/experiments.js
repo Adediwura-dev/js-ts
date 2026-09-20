@@ -15,6 +15,8 @@ console.log(5 + undefined)
 //5
 //gave NaN
 
+console.log(5 * "3")
+
 console.log(5 + null)
 //5
 
